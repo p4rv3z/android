@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_2e330233fd079bce22c775f452e28cee5e4291ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_ed797c9951d773bbabfe6469333d20129b0c7436\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8dd2f4476e6e2911cdf982c56f6bf0ab3dcc72c6">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4468f5ad8634aa8e0db34b29ac3e3ac1c7a9ef32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_7565b6042d633e784b6414f43b4557205ea96380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_b4b2c6d3b43aa7d95e40b1dabcc520d952a0158e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_786dfa3de5203f88c6b4d27526ae4d760bdb8d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_e69288936883bf84180249eecd0195d5a3090d73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_1fb18dad3316db574f994c60415a64216ce105c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7293005ec689af3a465b6e10da0fe945f139b461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2e247f38f6b596f2232ac703698375c96de3e1e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_d2cb2817395acf14f7373062bb5a9746b5af9921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_d6ba80c4f0510e31f78a9261ec60b07804747e59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_737b27e76dc118011a18f125d8457f68acd46ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_628becb742a8e2268d96c5df993c03e44ab27646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c2938a3165c474b8fa52a60c1b104655e4565c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9268bcc0e5dbc1d754430a3e658c112e711c8d48">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c9f6d65fd957bd7dbf36a39d7a36e4e337f3a109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0eb462c7a8307a96066f005ec319e6e38a448b01\classes.dex" />
+    </item>
+
+</items>
