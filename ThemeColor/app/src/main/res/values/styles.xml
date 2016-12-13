@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Custom Sky theme. -->
+    <style name="AppTheme.Sky">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimarySky</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSky</item>
+        <item name="colorAccent">@color/colorAccentSky</item>
+    </style>
+    <!-- Custom Yellow theme. -->
+    <style name="AppTheme.Yellow">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryYellow</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkYellow</item>
+        <item name="colorAccent">@color/colorAccentYellow</item>
+    </style>
+
+</resources>
