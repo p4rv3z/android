@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homey Robot</string>
+    <string name="submitedby">Supervisor:</string>
+    <string name="team_member">Team Members:</string>
+    <string name="tamim">Md. Shahriar Parvez Tameem\n131-15-2488\ntameemshahriar@diu.edu.bd</string>
+    <string name="kumu">Moriom Chowdhury Kumu\n131-15-2439\nkumu2439@diu.edu.bd</string>
+    <string name="amirul">Md. Amirul Islam\n131-15-2267\namirul2267@diu.edu.bd</string>
+    <string name="nishat">Nishat Halim Sharif\n131-15-2330\nnishat2330@diu.edu.bd</string>
+
+    <string name="sup_details">Prof. Dr. Md. Fokhray Hossain\nHead, Dept. of Natural Sciences\nDirector of International Affairs\nDaffodil International University\ndrfokhray@daffodilvarsity.edu.bd</string>
+
+</resources>

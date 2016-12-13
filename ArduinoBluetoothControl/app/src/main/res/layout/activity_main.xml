@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="100"
+    tools:context="bd.com.parvez.arduinobluetoothcontrol.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="50"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/imgbtn_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="invisible"
+            app:srcCompat="@android:drawable/btn_radio" />
+
+        <ImageButton
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:id="@+id/imgbtn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imgbtn_center"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@mipmap/ic_back" />
+
+        <ImageButton
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:id="@+id/imgbtn_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/imgbtn_center"
+            app:srcCompat="@mipmap/ic_left" />
+
+        <ImageButton
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:id="@+id/imgbtn_forward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/imgbtn_center"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@mipmap/ic_forward" />
+
+        <ImageButton
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:id="@+id/imgbtn_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imgbtn_center"
+            app:srcCompat="@mipmap/ic_right" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Auto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/btn_auto" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/btn_stop" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/diu_logo"
+            android:id="@+id/imageView"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="50">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Enter Values"
+            android:ems="10"
+            android:id="@+id/et_input" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_send"
+            android:layout_below="@+id/et_input" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Light On"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btn_send"
+            android:id="@+id/btn_light_on" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Light Off"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btn_send"
+            android:layout_toRightOf="@+id/btn_light_on"
+            android:id="@+id/btn_light_off" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Temperature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_temp"
+            android:layout_below="@+id/btn_light_on" />
+
+        <TextView
+            android:text="Temperature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/btn_temp"
+            android:id="@+id/tv_temp"
+            android:gravity="center_vertical"
+            android:layout_alignBottom="@+id/btn_temp"
+            android:layout_below="@+id/btn_light_on" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Night Mode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_night_mode"
+            android:layout_below="@+id/btn_temp" />
+
+        <Button
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_play"
+            android:layout_below="@+id/tv_temp"
+            android:layout_toRightOf="@+id/btn_night_mode" />
+
+        <ImageButton
+            style="@style/Widget.AppCompat.Button.Small"
+            android:onClick="about"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/ic_about"
+            android:id="@+id/imageButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true" />
+
+    </RelativeLayout>
+</LinearLayout>
