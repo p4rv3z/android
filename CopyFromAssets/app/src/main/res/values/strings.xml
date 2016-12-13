@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Copy From Assets</string>
+    <string name="from">From: </string>
+    <string name="to">TO: </string>
+</resources>
