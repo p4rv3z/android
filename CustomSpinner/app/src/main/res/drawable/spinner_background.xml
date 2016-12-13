@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+
+        <layer-list>
+
+            <item>
+                <!-- Background color -->
+                <color android:color="#503f51b5" />
+            </item>
+
+            <item>
+                <!-- icon -->
+                <bitmap android:gravity="center_vertical|right" android:src="@drawable/ic_spinner" />
+            </item>
+
+        </layer-list>
+
+    </item>
+</selector>
