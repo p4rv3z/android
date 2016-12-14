@@ -1,0 +1,7 @@
+#Thu Dec 15 01:48:21 BDT 2016
+base.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\PrePopulatedDatabase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ba553f978708e4b860ada493aa3ab6e983af7a8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\PrePopulatedDatabase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_287dcebfff0135b6ea53eeac24197575989de254\\classes.dex
+base.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\PrePopulatedDatabase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_287dcebfff0135b6ea53eeac24197575989de254
+file.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\PrePopulatedDatabase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ba553f978708e4b860ada493aa3ab6e983af7a8\\classes.dex
