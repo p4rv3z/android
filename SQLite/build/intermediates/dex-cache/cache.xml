@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_098992627cce574750111ade564f7cf2e8798b1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_f6df596539717bd7d40111c64c298e052eb4921c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eddb93d3ebb65ac3490a5ce616978bd829e18cd1">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c82a00f9013a69a22bab14db3de9f9c73d842bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_eb63cf6dcd0357084c964288635372b53756490a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_3a9666830cad2a4321fadb82c7b8c8f17a27ba55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="06452c5c0e56d654ad648108cf30a97ccd24409b">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_29da42317dadf3ef031d9b31dd51f8fcae3b91ba\classes.dex" />
+    </item>
+
+</items>

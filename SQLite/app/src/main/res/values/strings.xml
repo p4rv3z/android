@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="action_settings">Setting</string>
+    <string name="add">Add</string>
+    <string name="asc">ASC</string>
+    <string name="desc">DESC</string>
+    <string name="fav">Favourate</string>
+</resources>
