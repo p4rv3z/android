@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google Map</string>
+    <string name="btn_basic">Basic Map</string>
+    <string name="btn_type">Map Type</string>
+    <string name="btn_anim">Map Animation</string>
+    <string name="btn_icon">Map Icon</string>
+    <string name="btn_area">Map Area</string>
+    <string name="btn_street_view">Map Street View</string>
+</resources>
