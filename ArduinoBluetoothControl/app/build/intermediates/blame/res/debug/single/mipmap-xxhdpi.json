@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_right.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_right.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\light_on.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\light_on.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_left.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_left.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_back.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_forward.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\diu_logo.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\diu_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_about.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\light_off.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\light_off.png"
+    },
+    {
+        "merged": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ParveZ\\Documents\\workspace\\android\\ArduinoBluetoothControl\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

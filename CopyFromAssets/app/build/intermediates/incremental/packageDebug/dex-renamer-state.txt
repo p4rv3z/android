@@ -1,0 +1,7 @@
+#Wed Dec 14 01:54:56 BDT 2016
+base.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\CopyFromAssets\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1c81a775066737ae20d694f1ff263ffc73b0dd56
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\CopyFromAssets\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8926da770bf8d0f6f4ab110f8b8e2e0769d22f07\\classes.dex
+base.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\CopyFromAssets\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8926da770bf8d0f6f4ab110f8b8e2e0769d22f07
+file.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\CopyFromAssets\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1c81a775066737ae20d694f1ff263ffc73b0dd56\\classes.dex

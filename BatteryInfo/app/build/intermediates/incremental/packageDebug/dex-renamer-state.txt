@@ -1,0 +1,7 @@
+#Wed Dec 14 01:31:41 BDT 2016
+base.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\BatteryInfo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2742de6a75299d3c82202b391a11acb680b1a630
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\BatteryInfo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81e355cdac0506faa31c9e85d90d716dad771da2\\classes.dex
+base.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\BatteryInfo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81e355cdac0506faa31c9e85d90d716dad771da2
+file.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\BatteryInfo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2742de6a75299d3c82202b391a11acb680b1a630\\classes.dex
