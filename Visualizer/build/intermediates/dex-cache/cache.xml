@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a2268a973d098199e0ee81bb4094970bbef476a3">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_430ea3e66a0f06e2920922a0137707acad419279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="986c2da885d504e8bac2096e2640832435d38cb3">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_07743023836aa023bd29e821dc8ee05e0e0c4e22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_6afc38381e9b2fdb65a8104a6655c355ff1f2514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_f347f4b8df254463d8ea5451a144bf2848075131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_64c06800bc0c855a7ff546b739a5738a98c6227b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Visualizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_5af245ccd215b8bc0e251492a118a9386cdfbe13\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu Dec 15 12:45:17 BDT 2016
+base.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Visualizer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_430ea3e66a0f06e2920922a0137707acad419279
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Visualizer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_07743023836aa023bd29e821dc8ee05e0e0c4e22\\classes.dex
+base.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Visualizer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_07743023836aa023bd29e821dc8ee05e0e0c4e22
+file.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Visualizer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_430ea3e66a0f06e2920922a0137707acad419279\\classes.dex
