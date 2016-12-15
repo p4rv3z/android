@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bd.parvez.fragment.Details">
+
+    <fragment
+        android:id="@+id/fragmentB"
+        android:name="bd.parvez.fragment.FragmentB"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_b" />
+</RelativeLayout>

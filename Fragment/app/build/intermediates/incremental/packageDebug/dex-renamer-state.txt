@@ -1,0 +1,7 @@
+#Thu Dec 15 12:22:40 BDT 2016
+base.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1cb88d1e0668e8b2f4473265a17516e2b233c968
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_057f3a25f307d95d65ae5666282669bfefe89d54\\classes.dex
+base.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_057f3a25f307d95d65ae5666282669bfefe89d54
+file.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1cb88d1e0668e8b2f4473265a17516e2b233c968\\classes.dex
