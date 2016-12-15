@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_63ab766a8c8de37c8cf6b3c49f7171368c421735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_2b7e783c7229697627c0c2200362fd3ed6209a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_440afba5d5334e228a01cde1af94711653d84c31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="559f4f4296924cb8e41582582a21aa749869994a">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bf64f4020f7c471d3dc2b7bba842f236f3d1e870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_64c06800bc0c855a7ff546b739a5738a98c6227b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="debc4b4d94502368153c0f56b0e521e1ac5bd88c">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\ParvezKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5cd1a777e75d7fa083dff5a102c1bd13c0010438\classes.dex" />
+    </item>
+
+</items>

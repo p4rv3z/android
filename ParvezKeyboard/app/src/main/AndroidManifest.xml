@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bd.parvez.parvezkeyboard" >
+
+    <application
+        android:label="@string/app_name" >
+        <service android:name=".ParvezKeyboard"
+            android:label="@string/parvez_keyboard"
+            android:permission="android.permission.BIND_INPUT_METHOD">
+            <meta-data android:name="android.view.im"
+                android:resource="@xml/method"/>
+            <intent-filter>
+                <action android:name="android.view.InputMethod"></action>
+            </intent-filter>
+
+        </service>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

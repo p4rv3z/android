@@ -1,0 +1,7 @@
+#Thu Dec 15 12:34:15 BDT 2016
+base.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\ParvezKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5cd1a777e75d7fa083dff5a102c1bd13c0010438
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\ParvezKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bf64f4020f7c471d3dc2b7bba842f236f3d1e870\\classes.dex
+base.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\ParvezKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bf64f4020f7c471d3dc2b7bba842f236f3d1e870
+file.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\ParvezKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5cd1a777e75d7fa083dff5a102c1bd13c0010438\\classes.dex

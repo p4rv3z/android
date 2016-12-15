@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parvez Keyboard</string>
+    <string name="parvez_keyboard">ParvezKeyboard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sub_type">English(US)</string>
+</resources>
