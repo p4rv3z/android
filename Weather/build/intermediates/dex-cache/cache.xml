@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_b83fe3706d7f72192505a873227d322906f704e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_7c3ab61371452e9185dcbe5cc3ddf1821f0edd73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c230cfbbbf1b36ba97230512243a84d99ccf0504">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dd3cac8c0333f4982cb4a809c71ab96cb0fed029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5ddc673fd412ec6b1e071013396388cb11be3bdf">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b392a7e1c68c07929d20d7ebd4792ce90db053bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_4fa1b0bccb53e9e26840b81006571feb9f8f2a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\ParveZ\Documents\workspace\android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_c27ea4a20b25a0eb2daddabcdd7c65b3a0c7b35d\classes.dex" />
+    </item>
+
+</items>

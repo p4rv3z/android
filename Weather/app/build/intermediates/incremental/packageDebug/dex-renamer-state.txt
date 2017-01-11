@@ -1,0 +1,7 @@
+#Thu Dec 15 13:06:12 BDT 2016
+base.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Weather\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b392a7e1c68c07929d20d7ebd4792ce90db053bb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Weather\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dd3cac8c0333f4982cb4a809c71ab96cb0fed029\\classes.dex
+base.1=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Weather\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dd3cac8c0333f4982cb4a809c71ab96cb0fed029
+file.0=C\:\\Users\\ParveZ\\Documents\\workspace\\android\\Weather\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b392a7e1c68c07929d20d7ebd4792ce90db053bb\\classes.dex
