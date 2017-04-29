@@ -1,0 +1,181 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC0000"
+    android:gravity="center"
+    android:padding="5dp"
+    android:id="@+id/rel_about_rel"
+    tools:context="bd.parvez.onlineradio.About">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RelativeLayout
+                android:padding="5dp"
+                android:id="@+id/rel_about_app"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:background="#FFFFFF">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FF4444"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:textColor="#ffffff"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#CC0000"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="APPLICATION" />
+
+                    <ImageView
+                        android:id="@+id/img_about_app"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center_horizontal"
+                        android:clickable="true"
+                        android:onClick="rateUs"
+                        android:src="@drawable/ic_launcher" />
+
+                    <TextView
+                        android:textColor="#ffffff"
+                        android:padding="2dp"
+                        android:id="@+id/tv_about_app"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/img_about_app"
+                        android:text="@string/about" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:padding="5dp"
+                android:id="@+id/rel_about_dev"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rel_about_app"
+                android:background="#FFFFFF">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FF4444">
+
+                    <TextView
+                        android:id="@+id/tvDev"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#CC0000"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="Developer"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="#FFFFFF" />
+
+                    <TextView
+                        android:textColor="#ffffff"
+                        android:padding="2dp"
+                        android:id="@+id/tvAbout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tvDev"
+                        android:text="Hi! I am Parvez from Bangladesh. At present I am studying at Daffodil International University. For more information you can visit my facebook profile. And you can also contact with me by mailing.\nThank You."
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                    <ImageView
+                        android:layout_marginLeft="20dp"
+                        android:id="@+id/imF"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_below="@+id/tvAbout"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:onClick="myFacebook"
+                        android:padding="2dp"
+                        android:src="@mipmap/fb_me" />
+
+                    <ImageView
+                        android:id="@+id/imG"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tvAbout"
+                        android:layout_toLeftOf="@+id/imF"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:onClick="myGmail"
+                        android:padding="2dp"
+                        android:src="@mipmap/g_me" />
+                </RelativeLayout>
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:padding="5dp"
+                android:id="@+id/rel_about_moreapps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rel_about_dev"
+                android:layout_marginTop="5dp"
+                android:background="#FFFFFF"
+                android:clickable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:onClick="moreApps">
+
+                    <TextView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#CC0000"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="More Apps on\nGoogle Play Store"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="#FFFFFF" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:padding="5dp"
+                android:id="@+id/rel_about_rate_us"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rel_about_moreapps"
+                android:layout_marginTop="5dp"
+                android:background="#FFFFFF"
+                android:clickable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:onClick="rateUs">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#CC0000"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="Rate us on\nGoogle Play Store"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="#FFFFFF" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

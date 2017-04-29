@@ -15,15 +15,15 @@ ADDED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\
 		INJECTED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ParveZ\.android\build-cache\7cb844d6ac81bd501c331675bd8baac4905f7b04\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ParveZ\.android\build-cache\e6480004a38ce6c47a2ac7d05086966e3e72a901\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ParveZ\.android\build-cache\9008ff96a972eca1aaf4fa0ddfb53b4ebaf3b563\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ParveZ\.android\build-cache\fb72e440a14b5b72b8201d089c0bef884c0fa0df\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ParveZ\.android\build-cache\af48361e44e3d6987515b90fd18df73f1cd698b3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ParveZ\.android\build-cache\9fc454bf9b1d0c209a26d095b3c3dd617e29cdd8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ParveZ\.android\build-cache\a57ad8f8505dc224ad1adc3628e09f6f640aad67\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ParveZ\.android\build-cache\39324bed32654183908714da274ae69cc3655d8e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ParveZ\.android\build-cache\51faff2be6d7108fb7b3ea36471082a931d068a9\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -50,17 +50,17 @@ ADDED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\
 		ADDED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ParveZ\.android\build-cache\7cb844d6ac81bd501c331675bd8baac4905f7b04\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ParveZ\.android\build-cache\e6480004a38ce6c47a2ac7d05086966e3e72a901\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ParveZ\.android\build-cache\9008ff96a972eca1aaf4fa0ddfb53b4ebaf3b563\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ParveZ\.android\build-cache\fb72e440a14b5b72b8201d089c0bef884c0fa0df\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ParveZ\.android\build-cache\af48361e44e3d6987515b90fd18df73f1cd698b3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ParveZ\.android\build-cache\9fc454bf9b1d0c209a26d095b3c3dd617e29cdd8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ParveZ\.android\build-cache\a57ad8f8505dc224ad1adc3628e09f6f640aad67\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ParveZ\.android\build-cache\39324bed32654183908714da274ae69cc3655d8e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ParveZ\.android\build-cache\51faff2be6d7108fb7b3ea36471082a931d068a9\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ParveZ\.android\build-cache\7cb844d6ac81bd501c331675bd8baac4905f7b04\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ParveZ\Documents\workspace\android\BatteryInfo\app\src\main\AndroidManifest.xml

@@ -3,6 +3,7 @@ package bd.com.parvez.recyclerview;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
@@ -29,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements CustomAdapter.Ite
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         //Create CustomAdapter Object
         customAdapter = new CustomAdapter(data,this);
-
+        recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(customAdapter);
         //Set Custom Adapter Clickable
         customAdapter.setItemClickCallBack(this);

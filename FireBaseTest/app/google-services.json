@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "120500787159-7lejigb08vgse7fpip2o56suj7v4o6ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parvez.firebasetest",
+            "certificate_hash": "f4068a220f8ef0f9b9de3cd6112c9b7013ce6763"
+          }
+        },
+        {
           "client_id": "120500787159-fvisjblgt5l6u77lhu2e7h2s6ea7e8ku.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
