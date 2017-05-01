@@ -13,4 +13,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Send Data" />
+    <Button
+        android:onClick="readData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Read Data" />
+    <Button
+        android:onClick="listView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List View" />
 </LinearLayout>

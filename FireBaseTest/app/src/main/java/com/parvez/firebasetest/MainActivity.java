@@ -18,29 +18,20 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-//
-//
-//        // Read from the database
-//        myRef.addValueEventListener(new ValueEventListener() {
-//            @Override
-//            public void onDataChange(DataSnapshot dataSnapshot) {
-//                // This method is called once with the initial value and again
-//                // whenever data at this location is updated.
-//                String value = dataSnapshot.getValue(String.class);
-//                Log.d("Firebase", "Value is: " + value);
-//            }
-//
-//            @Override
-//            public void onCancelled(DatabaseError error) {
-//                // Failed to read value
-//                Log.w("Firebase", "Failed to read value.", error.toException());
-//            }
-//        });
     }
 
     public void sendData(View view) {
         Intent intent = new Intent(this, SendData.class);
+        startActivity(intent);
+    }
+
+    public void readData(View view) {
+        Intent intent = new Intent(this, ReadData.class);
+        startActivity(intent);
+    }
+
+    public void listView(View view) {
+        Intent intent = new Intent(this, ShowInList.class);
         startActivity(intent);
     }
 }

@@ -18,7 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SendData"></activity>
+        <activity android:name=".SendData" />
+        <activity android:name=".ReadData" />
+        <activity android:name=".ShowInList"></activity>
     </application>
 
 </manifest>
