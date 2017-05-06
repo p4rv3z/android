@@ -12,14 +12,27 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+<<<<<<< HEAD
 
         FirebaseMessaging.getInstance().subscribeToTopic("FCM");
         FirebaseInstanceId.getInstance().getToken();
 
+=======
+>>>>>>> 0f21d110733eb43fe7f4f5b540dfa62e842a182a
     }
 
     public void sendData(View view) {
         Intent intent = new Intent(this, SendData.class);
+        startActivity(intent);
+    }
+
+    public void readData(View view) {
+        Intent intent = new Intent(this, ReadData.class);
+        startActivity(intent);
+    }
+
+    public void listView(View view) {
+        Intent intent = new Intent(this, ShowInList.class);
         startActivity(intent);
     }
 }
