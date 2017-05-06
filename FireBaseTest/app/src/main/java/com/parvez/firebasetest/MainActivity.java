@@ -3,22 +3,21 @@ package com.parvez.firebasetest;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.messaging.FirebaseMessaging;
+
 
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-<<<<<<< HEAD
 
         FirebaseMessaging.getInstance().subscribeToTopic("FCM");
-        FirebaseInstanceId.getInstance().getToken();
-
-=======
->>>>>>> 0f21d110733eb43fe7f4f5b540dfa62e842a182a
+        String token = FirebaseInstanceId.getInstance().getToken();
+        Log.d("PARVEZ::::",token+"");
     }
 
     public void sendData(View view) {

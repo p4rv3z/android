@@ -26,8 +26,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
         <activity android:name=".SendData"></activity>
+        <activity android:name=".ReadData" />
+        <activity android:name=".ShowInList"></activity>
         <service
             android:name=".MyFirebaseMessagingService">
             <intent-filter>
@@ -41,11 +42,6 @@
             </intent-filter>
         </service>
 
-=======
-        <activity android:name=".SendData" />
-        <activity android:name=".ReadData" />
-        <activity android:name=".ShowInList"></activity>
->>>>>>> 0f21d110733eb43fe7f4f5b540dfa62e842a182a
     </application>
 
 </manifest>

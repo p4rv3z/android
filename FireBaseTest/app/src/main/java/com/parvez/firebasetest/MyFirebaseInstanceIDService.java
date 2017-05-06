@@ -1,6 +1,5 @@
 package com.parvez.firebasetest;
-
-import android.util.Log;
+//"http://192.110.214.120/~shuvraco/letsgo/reg_devices.php"
 
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
@@ -13,29 +12,23 @@ import okhttp3.Request;
 import okhttp3.RequestBody;
 
 /**
- * Created by ParveZ on 5/6/2017.
+ * Created by filipp on 5/23/2016.
  */
-
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
-    private static final String TAG = "MyFirebaseIIDService";
 
     @Override
     public void onTokenRefresh() {
-        // Get updated InstanceID token.
-        String refreshedToken = FirebaseInstanceId.getInstance().getToken();
-        Log.d(TAG, "Refreshed token: " + refreshedToken);
 
-        // If you want to send messages to this application instance or
-        // manage this apps subscriptions on the server side, send the
-        // Instance ID token to your app server.
-        sendRegistrationToServer(refreshedToken);
+        String token = FirebaseInstanceId.getInstance().getToken();
+
+        registerToken(token);
     }
 
-    private void sendRegistrationToServer(String token) {
-        // TODO: Implement this method to send token to your app server.
+    private void registerToken(String token) {
+
         OkHttpClient client = new OkHttpClient();
         RequestBody body = new FormBody.Builder()
-                .add("Token", token)
+                .add("Token",token)
                 .build();
 
         Request request = new Request.Builder()

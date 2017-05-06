@@ -5,17 +5,16 @@ import android.app.PendingIntent;
 import android.content.Intent;
 import android.support.v4.app.NotificationCompat;
 
-import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
 /**
- * Created by ParveZ on 5/6/2017.
+ * Created by filipp on 5/23/2016.
  */
+public class MyFirebaseMessagingService extends com.google.firebase.messaging.FirebaseMessagingService{
 
-public class MyFirebaseMessagingService extends FirebaseMessagingService {
     @Override
     public void onMessageReceived(RemoteMessage remoteMessage) {
-        super.onMessageReceived(remoteMessage);
+
         showNotification(remoteMessage.getData().get("message"));
     }
 
@@ -37,4 +36,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
         manager.notify(0,builder.build());
     }
+
+
 }
